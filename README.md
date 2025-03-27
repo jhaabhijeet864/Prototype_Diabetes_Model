@@ -1,8 +1,3 @@
-# Prototype_Diabetes_Model
-
-Based on the description and information provided, here's a detailed and well-structured README for the repository:
-
----
 
 # Prototype Diabetes Model
 
